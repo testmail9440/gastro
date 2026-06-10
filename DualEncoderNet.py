@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-"""
-GastroVision FINAL FIX
-- Fixed SWA update_bn device error
-- Restored detailed epoch metrics (Precision/Recall/F1/MCC)
-"""
 
 import torch
 import torch.nn as nn
